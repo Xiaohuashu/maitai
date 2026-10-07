@@ -1,0 +1,1655 @@
+[
+  {
+    "id": "lunch",
+    "name": "Mittagskarte · Lunch Specials",
+    "sub": "Mo. bis Fr. 11:30 – 14:30 Uhr (ohne Glutamat)",
+    "note": "Mittags-Menü-Tipp: Wählen Sie zwischen Glasnudelsuppe (V.1), Frühlingsrollen (V.4) oder gemischtem Salat (V.6) plus Tagesgericht für 15,00 €.",
+    "items": [
+      {
+        "num": "V.1",
+        "name": "Glasnudelsuppe mit Hähnchenbrust",
+        "desc": "Klare Glasnudelsuppe mit Hähnchenbrustfilet und frischem Gemüse",
+        "price": "5.50 €",
+        "tags": "lunch"
+      },
+      {
+        "num": "V.2",
+        "name": "Tom Yam Gai Suppe",
+        "desc": "Thai-Hühnersuppe mit Champignons, Koriander und frischem Zitronengras",
+        "price": "5.50 €",
+        "tags": "lunch spicy"
+      },
+      {
+        "num": "V.3",
+        "name": "Tom Kha Gai Suppe",
+        "desc": "Kokosmilchsuppe mit Hähnchenbrust und Champignons",
+        "price": "6.00 €",
+        "tags": "lunch"
+      },
+      {
+        "num": "V.4",
+        "name": "Hausgemachte Frühlingsrollen (3 Stk.)",
+        "desc": "Knusprige Frühlingsrollen gefüllt mit Glasnudeln und Gemüse",
+        "price": "5.00 €",
+        "tags": "lunch veg"
+      },
+      {
+        "num": "V.5",
+        "name": "Hähnchenspieße Satay (4 Stk.)",
+        "desc": "Zarte Hähnchenspießchen mit hausgemachter Erdnusssauce",
+        "price": "6.00 €",
+        "tags": "lunch"
+      },
+      {
+        "num": "V.6",
+        "name": "Gemischter Mittagssalat",
+        "desc": "Knackig-frischer Salat mit feinem Haus-Dressing",
+        "price": "6.00 €",
+        "tags": "lunch veg"
+      },
+      {
+        "num": "M.1",
+        "name": "Gebratener Reis mit Gemüse & Hähnchenbrust",
+        "desc": "Wok-Reis mit Hähnchenfilet, Ei und knackigem Marktgemüse",
+        "price": "11.50 €",
+        "tags": "lunch"
+      },
+      {
+        "num": "M.2",
+        "name": "Gebratene Eiernudeln mit Gemüse & Hähnchenbrust",
+        "desc": "Wok-Eiernudeln mit zarter Hähnchenbrust und frischem Gemüse",
+        "price": "11.50 €",
+        "tags": "lunch"
+      },
+      {
+        "num": "M.3",
+        "name": "Gebratene Reisbandnudeln mit Hähnchenbrust",
+        "desc": "Breite Reisbandnudeln aus dem Wok mit Hähnchenfilet und Gemüsestreifen",
+        "price": "12.00 €",
+        "tags": "lunch"
+      },
+      {
+        "num": "M.4",
+        "name": "Buntes Gemüse in rotem Thai-Curry",
+        "desc": "Knackiges Marktgemüse in samtigem rotem Kokoscurry, serviert mit Duftreis",
+        "price": "12.00 €",
+        "tags": "lunch veg spicy"
+      },
+      {
+        "num": "M.5",
+        "name": "Buntes Gemüse gebraten mit Tofu & Glasnudeln",
+        "desc": "Feines Wokgemüse mit Bio-Tofu und Glasnudeln in milder Sauce",
+        "price": "12.00 €",
+        "tags": "lunch veg"
+      },
+      {
+        "num": "M.6",
+        "name": "Hähnchenbrust in rotem Curry & Kokosmilch",
+        "desc": "Hähnchenfilet in cremigem rotem Kokoscurry mit Gemüse und Duftreis",
+        "price": "12.50 €",
+        "tags": "lunch spicy"
+      },
+      {
+        "num": "M.7",
+        "name": "Knuspriges Huhn mit Erdnusssauce",
+        "desc": "Kross gebackenes Huhn auf buntem Marktgemüse mit aromatischer Erdnusssauce",
+        "price": "12.50 €",
+        "tags": "lunch sig"
+      },
+      {
+        "num": "M.8",
+        "name": "Gebratene Hähnchenbrust mit Cashewkernen",
+        "desc": "Hähnchenfilet im Wok geschwenkt mit buntem Gemüse und gerösteten Cashewnüssen",
+        "price": "12.50 €",
+        "tags": "lunch"
+      },
+      {
+        "num": "M.9",
+        "name": "Gebratenes Rindfleisch mit Chili & Zwiebeln",
+        "desc": "Zartes Rindfleisch aus dem Wok mit Zwiebeln, Champignons, Chili und Paprika",
+        "price": "12.50 €",
+        "tags": "lunch spicy"
+      },
+      {
+        "num": "M.10",
+        "name": "Knusprige Ente auf buntem Gemüse",
+        "desc": "Kross gebackene Ente auf frischem Wok-Gemüse mit Duftreis",
+        "price": "14.00 €",
+        "tags": "lunch sig"
+      },
+      {
+        "num": "M.11",
+        "name": "Knusprige Ente mit Thai-Basilikum & Chili",
+        "desc": "Krosse Ente mit feurigem Thai-Basilikum, Paprika, Babymais und grünen Bohnen",
+        "price": "14.00 €",
+        "tags": "lunch spicy"
+      },
+      {
+        "num": "M.12",
+        "name": "Hähnchenbrust mit Sesam auf buntem Salat",
+        "desc": "Gebratene Hähnchenbrust mit geröstetem Sesam, Minz-Limetten-Dressing und Reis",
+        "price": "13.00 €",
+        "tags": "lunch"
+      },
+      {
+        "num": "M.13",
+        "name": "Rindfleisch oder knusprige Ente auf Thai-Salat",
+        "desc": "Auf buntem Salat mit frischem Thai-Basilikum, feiner Limettensauce und Duftreis",
+        "price": "14.00 €",
+        "tags": "lunch"
+      },
+      {
+        "num": "M.14",
+        "name": "Hähnchenspieße mit Erdnusssauce & Salat",
+        "desc": "Gegrillte Saté-Spieße serviert mit herzhafter Erdnusssauce, Salat und Reis",
+        "price": "10.00 €",
+        "tags": "lunch"
+      }
+    ]
+  },
+  {
+    "id": "starters",
+    "name": "Vorspeisen · Appetizers",
+    "sub": "Thailändische & vietnamesische Spezialitäten",
+    "items": [
+      {
+        "num": "01",
+        "name": "Po Pia (3 Stk.)",
+        "desc": "Knusprige Thai-Frühlingsröllchen mit Gemüse, Glasnudeln und süß-saurer Chilisauce",
+        "price": "5.00 €",
+        "tags": "starters veg"
+      },
+      {
+        "num": "02",
+        "name": "Wan Tan gebacken (6 Stk.)",
+        "desc": "Goldbraun gebackene Teigtaschen gefüllt mit gewürztem Hühnerfleisch",
+        "price": "6.00 €",
+        "tags": "starters"
+      },
+      {
+        "num": "03",
+        "name": "Saté Gai (4 Stk.)",
+        "desc": "Zarte Hähnchenspießchen mit cremiger hausgemachter Erdnusssauce",
+        "price": "6.50 €",
+        "tags": "starters sig"
+      },
+      {
+        "num": "04",
+        "name": "Cho Cho (4 Stk.)",
+        "desc": "Zarte Rindfleischspießchen mariniert, serviert mit Erdnusssauce",
+        "price": "7.00 €",
+        "tags": "starters"
+      },
+      {
+        "num": "05",
+        "name": "Thung Thong (5 Stk.)",
+        "desc": "Goldene Glücksbeutelchen aus Reisteig gefüllt mit gehackten Garnelen und Gemüse",
+        "price": "6.90 €",
+        "tags": "starters"
+      },
+      {
+        "num": "06",
+        "name": "Gum Haom Pha (5 Stk.)",
+        "desc": "Garnelen nach Thai-Art gewürzt im Teigmantel mit süß-saurer Dip-Sauce",
+        "price": "6.90 €",
+        "tags": "starters"
+      },
+      {
+        "num": "07",
+        "name": "Mai Tai Platte",
+        "desc": "Große gemischte Vorspeisenplatte mit Saté, Wan Tan, Frühlingsrollen und Dips",
+        "price": "12.50 €",
+        "tags": "starters sig"
+      },
+      {
+        "num": "08",
+        "name": "Pak Chau Pang Thood",
+        "desc": "Frisches knackiges Marktgemüse frittiert nach thailändischer Tempura-Art",
+        "price": "8.50 €",
+        "tags": "starters veg"
+      },
+      {
+        "num": "09",
+        "name": "Cha Gio (3 Stk.)",
+        "desc": "Traditionelle vietnamesische Frühlingsrollen mit Schweinefleisch, Morcheln und Glasnudeln",
+        "price": "6.50 €",
+        "tags": "starters"
+      },
+      {
+        "num": "10",
+        "name": "Suon Heo Nuong (5 Stk.)",
+        "desc": "Zart gegrillte Schweinerippchen glasiert mit feinem Honig und Kräutern",
+        "price": "9.50 €",
+        "tags": "starters"
+      },
+      {
+        "num": "11",
+        "name": "Banh Tom Chien (3 Stk.)",
+        "desc": "Gebackener Süßkartoffelteig mit ganzen Garnelen, frischem Salat und Minze",
+        "price": "7.00 €",
+        "tags": "starters"
+      },
+      {
+        "num": "12",
+        "name": "Goi Cuon (2 Stk.)",
+        "desc": "Frische Sommerrollen in Reispapier mit Garnelen, Reisnudeln, Salat und Kräutern",
+        "price": "7.50 €",
+        "tags": "starters sig"
+      }
+    ]
+  },
+  {
+    "id": "soups",
+    "name": "Suppen · Soups",
+    "sub": "Thailändische & vietnamesische Spezialitäten-Suppen",
+    "items": [
+      {
+        "num": "13",
+        "name": "Tom Yam Gung",
+        "desc": "Feurige Garnelensuppe mit Champignons, Koriander, Zitronengras und Thai-Ingwer (Galgant)",
+        "price": "7.50 €",
+        "tags": "soups spicy"
+      },
+      {
+        "num": "14",
+        "name": "Tom Yam Gai",
+        "desc": "Thai-Hühnersuppe mit Champignons, Koriander, frischem Zitronengras und Galgant",
+        "price": "6.50 €",
+        "tags": "soups spicy"
+      },
+      {
+        "num": "15",
+        "name": "Tom Kha Gai",
+        "desc": "Aromatische Kokosmilchsuppe mit zarter Hähnchenbrust, Champignons und Galgant",
+        "price": "7.00 €",
+        "tags": "soups sig"
+      },
+      {
+        "num": "16",
+        "name": "Gaeng Chud Wunsen",
+        "desc": "Milde und wohltuende Glasnudelsuppe mit zartem Hühnerfleisch und frischem Gemüse",
+        "price": "6.50 €",
+        "tags": "soups"
+      },
+      {
+        "num": "17",
+        "name": "Giow Naam",
+        "desc": "Traditionelle Wantansuppe mit hausgemachten Hühnerfleischtaschen und Gemüse",
+        "price": "6.50 €",
+        "tags": "soups"
+      },
+      {
+        "num": "18",
+        "name": "Canh Chua Tom",
+        "desc": "Südvietnamesische süß-säuerliche Suppe mit Garnelen, Ananas, Tomaten und Kräutern",
+        "price": "7.50 €",
+        "tags": "soups spicy"
+      },
+      {
+        "num": "19",
+        "name": "Canh Chua Ga",
+        "desc": "Südvietnamesische süß-säuerliche Suppe mit Hühnerfleisch und Marktgemüse",
+        "price": "6.50 €",
+        "tags": "soups spicy"
+      }
+    ]
+  },
+  {
+    "id": "salads",
+    "name": "Salate · Fresh Salads",
+    "sub": "Frische Kräuter, Limette & exotische Dressings",
+    "items": [
+      {
+        "num": "20",
+        "name": "Yam Nua",
+        "desc": "Pikanter thailändischer Rindfleischsalat mit frischem Gemüse und Chili-Limettensaft-Dressing",
+        "price": "12.00 €",
+        "tags": "salads spicy"
+      },
+      {
+        "num": "21",
+        "name": "Yam Wun Sen",
+        "desc": "Aromatischer Glasnudelsalat mit Hähnchen, Garnelen, Morcheln, Zwiebeln und Kräutern",
+        "price": "12.50 €",
+        "tags": "salads spicy"
+      },
+      {
+        "num": "22",
+        "name": "Yam Ruammit Talee",
+        "desc": "Exotischer Meeresfrüchtesalat mit Garnelen, Tintenfisch, Gemüse und frischem Zitronengras",
+        "price": "14.00 €",
+        "tags": "salads spicy sig"
+      },
+      {
+        "num": "23",
+        "name": "Lap Gai",
+        "desc": "Traditioneller Thai-Salat aus gehacktem Hähnchenfilet mit Minze, Koriander, Chili und Limette",
+        "price": "11.00 €",
+        "tags": "salads spicy"
+      },
+      {
+        "num": "24",
+        "name": "Salat Tron",
+        "desc": "Großer bunter gemischter Salat mit vietnamesischem Kräuter-Dressing",
+        "price": "8.00 €",
+        "tags": "salads veg"
+      },
+      {
+        "num": "25",
+        "name": "Bo Tai Chanh",
+        "desc": "Vietnamesischer Rindfleischsalat mit Zwiebeln, gerösteten Erdnüssen, Limette und frischer Minze",
+        "price": "12.00 €",
+        "tags": "salads sig"
+      },
+      {
+        "num": "26",
+        "name": "Goi Thom Muc",
+        "desc": "Tintenfischsalat mit frischer Ananas, zarten Lotusstängeln und Kräutern",
+        "price": "11.50 €",
+        "tags": "salads"
+      },
+      {
+        "num": "27",
+        "name": "Goi Ngo Sen Tom Thit",
+        "desc": "Traditioneller Lotusstängelsalat mit Garnelen, Schweinefleisch und Erdnüssen",
+        "price": "13.00 €",
+        "tags": "salads"
+      }
+    ]
+  },
+  {
+    "id": "chicken",
+    "name": "Geflügel & Hähnchen · Gai / Ga",
+    "sub": "Zartes Hähnchenfilet aus dem Wok & feurige Curries",
+    "items": [
+      {
+        "num": "30",
+        "name": "Gaeng Daeng Gai (Rotes Curry)",
+        "desc": "Hähnchenfilet in feinem rotem Thai-Curry mit Marktgemüse, Bambus und Kokosmilch",
+        "price": "15.80 €",
+        "tags": "chicken spicy sig"
+      },
+      {
+        "num": "31",
+        "name": "Gaeng Kiew Wan Gai (Grünes Curry)",
+        "desc": "Hähnchenfilet in pikantem grünem Kräuter-Curry mit Gemüse und Kokosmilch",
+        "price": "15.80 €",
+        "tags": "chicken spicy"
+      },
+      {
+        "num": "32",
+        "name": "Gai Pad Kratiam Prik Thai",
+        "desc": "Gebratenes Hähnchenfilet mit schwarzem Pfeffer, Knoblauch und Prinzessbohnen",
+        "price": "15.80 €",
+        "tags": "chicken"
+      },
+      {
+        "num": "33",
+        "name": "Gai Pad Nahm Man Hoy",
+        "desc": "Gebratenes Hähnchenfilet mit Brokkoli, Champignons und Paprika in feiner Austernsauce",
+        "price": "15.80 €",
+        "tags": "chicken"
+      },
+      {
+        "num": "34",
+        "name": "Panang Gai",
+        "desc": "Cremiges Panang-Curry mit Hähnchenfilet, Kaffir-Limettenblättern und Erdnüssen",
+        "price": "15.80 €",
+        "tags": "chicken spicy"
+      },
+      {
+        "num": "35",
+        "name": "Gai Pad Ruam Mit",
+        "desc": "Zartes Hähnchenfilet im Wok sautiert mit buntem saisonalem Marktgemüse",
+        "price": "15.80 €",
+        "tags": "chicken"
+      },
+      {
+        "num": "36",
+        "name": "Gai Pad Prik",
+        "desc": "Gebratenes Hähnchenfilet mit scharfen roten Chilis, Zwiebeln, Champignons und Paprika",
+        "price": "15.80 €",
+        "tags": "chicken spicy"
+      },
+      {
+        "num": "37",
+        "name": "Gai Pad Khing",
+        "desc": "Gebratenes Hähnchenfilet mit frischem jungen Ingwer, Morcheln, Zwiebeln und Paprika",
+        "price": "15.80 €",
+        "tags": "chicken"
+      },
+      {
+        "num": "38",
+        "name": "Priow Waan Gai",
+        "desc": "Gebratenes Hähnchenfilet mit Ananas und Gemüse in fruchtiger süß-saurer Sauce",
+        "price": "15.80 €",
+        "tags": "chicken"
+      },
+      {
+        "num": "39",
+        "name": "Gai Pad Met Ma Muang",
+        "desc": "Hähnchenfilet mit gerösteten Cashewkernen, Frühlingszwiebeln und Marktgemüse",
+        "price": "17.80 €",
+        "tags": "chicken sig"
+      },
+      {
+        "num": "40",
+        "name": "Gai Pad Krapao (Kiamau)",
+        "desc": "Gehacktes Hähnchenfleisch im Wok mit feurigem Chili, Knoblauch und frischem Thai-Basilikum",
+        "price": "15.80 €",
+        "tags": "chicken spicy"
+      },
+      {
+        "num": "41",
+        "name": "Ga Chien Gion Sot Dau",
+        "desc": "Knusprig gebackenes Hähnchenbrustfilet auf Wokgemüse mit reichhaltiger Erdnusssauce",
+        "price": "17.50 €",
+        "tags": "chicken sig"
+      },
+      {
+        "num": "42",
+        "name": "Ga Chien Gion Sot Cam",
+        "desc": "Knusprig gebackenes Hähnchen mit feiner fruchtiger Orangensauce",
+        "price": "17.50 €",
+        "tags": "chicken"
+      },
+      {
+        "num": "43",
+        "name": "Ga Chien Gion Ngu Vi Huong",
+        "desc": "Knuspriges Hähnchen verfeinert mit der aromatischen vietnamesischen 5-Gewürze-Note",
+        "price": "17.50 €",
+        "tags": "chicken"
+      },
+      {
+        "num": "44",
+        "name": "Ga Chien Gion Sot Xa Ot",
+        "desc": "Knuspriges Hähnchen mit scharfer Zitronengrassauce und frischen Chilis",
+        "price": "17.50 €",
+        "tags": "chicken spicy"
+      },
+      {
+        "num": "45",
+        "name": "Ga Xao Xa Ot",
+        "desc": "Gebratenes Hähnchenfilet geschwenkt mit frischem Zitronengras, Chili und Kokosmilch",
+        "price": "17.50 €",
+        "tags": "chicken spicy"
+      },
+      {
+        "num": "46",
+        "name": "Ga Kho Gung",
+        "desc": "Hähnchenschenkelfleisch schonend geschmort mit jungem Ingwer im traditionellen heißen Tontopf",
+        "price": "18.00 €",
+        "tags": "chicken sig"
+      }
+    ]
+  },
+  {
+    "id": "pork",
+    "name": "Schweinefleisch · Moo / Heo",
+    "sub": "Traditionell thailändisch gewürzt",
+    "items": [
+      {
+        "num": "50",
+        "name": "Gaeng Kou Moo",
+        "desc": "Zartes Schweinefleisch mit rotem Thai-Curry und tropischen Früchten in Kokosmilch",
+        "price": "15.80 €",
+        "tags": "pork spicy"
+      },
+      {
+        "num": "51",
+        "name": "Moo Pad Khing",
+        "desc": "Gebratenes Schweinefleisch mit frischem Ingwer, Morcheln und buntem Paprika",
+        "price": "15.80 €",
+        "tags": "pork"
+      },
+      {
+        "num": "52",
+        "name": "Moo Pad Ruam Mit",
+        "desc": "Gebratenes Schweinefleisch mit einer bunten Auswahl an frischem Marktgemüse",
+        "price": "15.80 €",
+        "tags": "pork"
+      },
+      {
+        "num": "53",
+        "name": "Priow Waan Moo",
+        "desc": "Gebratenes Schweinefleisch mit Gemüse und Früchten in süß-saurer Sauce",
+        "price": "15.80 €",
+        "tags": "pork"
+      },
+      {
+        "num": "54",
+        "name": "Moo Pad Prik",
+        "desc": "Gebratenes Schweinefleisch mit Chili, Zwiebeln, Champignons und Paprika",
+        "price": "15.80 €",
+        "tags": "pork spicy"
+      },
+      {
+        "num": "55",
+        "name": "Moo Krat Nam Prik Thai",
+        "desc": "Gebratenes Schweinefleisch mit aromatischem Pfeffer, Knoblauch und Prinzessbohnen",
+        "price": "15.80 €",
+        "tags": "pork"
+      },
+      {
+        "num": "56",
+        "name": "Moo Kiamau (Krapao)",
+        "desc": "Gebratenes Schweinefleisch mit feurigem Chili, Knoblauch und frischem Thai-Basilikum",
+        "price": "15.80 €",
+        "tags": "pork spicy"
+      }
+    ]
+  },
+  {
+    "id": "beef",
+    "name": "Rindfleisch · Nua / Bo",
+    "sub": "Zarte Rinderhüfte im Wok geschwenkt",
+    "items": [
+      {
+        "num": "60",
+        "name": "Gaeng Nua (Rotes Curry)",
+        "desc": "Zartes Rindfleisch in aromatischem rotem Thai-Curry mit Gemüse und Kokosmilch",
+        "price": "17.00 €",
+        "tags": "beef spicy"
+      },
+      {
+        "num": "61",
+        "name": "Gaeng Kiew Wan Nua (Grünes Curry)",
+        "desc": "Rindfleisch in pikantem grünem Kräuter-Curry mit Auberginen und Kokosmilch",
+        "price": "17.00 €",
+        "tags": "beef spicy"
+      },
+      {
+        "num": "62",
+        "name": "Nua Krat Nam Prik Thai",
+        "desc": "Gebratenes Rindfleisch mit Pfeffer, Knoblauch und Prinzessbohnen",
+        "price": "17.00 €",
+        "tags": "beef"
+      },
+      {
+        "num": "63",
+        "name": "Gaeng Paa Nua (Dschungelcurry)",
+        "desc": "Rindfleisch mit Auberginen, Babymais und Galgant-Ingwerwurzeln in feurigem Dschungelcurry",
+        "price": "17.00 €",
+        "tags": "beef spicy"
+      },
+      {
+        "num": "64",
+        "name": "Nua Pad Nahm Man Hoy",
+        "desc": "Gebratenes Rindfleisch mit Champignons, frischem Brokkoli und Paprika in Austernsauce",
+        "price": "17.00 €",
+        "tags": "beef"
+      },
+      {
+        "num": "65",
+        "name": "Nua Pad Satay",
+        "desc": "Gebratenes Rindfleisch mit Paprika und Zwiebeln in cremiger Satay-Erdnusssauce und Kokosmilch",
+        "price": "17.00 €",
+        "tags": "beef sig"
+      },
+      {
+        "num": "66",
+        "name": "Nua Pad Ruam Mit",
+        "desc": "Zartes Rindfleisch aus dem Wok mit verschiedenem Marktgemüse in Sojasauce",
+        "price": "17.00 €",
+        "tags": "beef"
+      },
+      {
+        "num": "67",
+        "name": "Nua Pad Prik",
+        "desc": "Gebratenes Rindfleisch mit feurigen Chilis, Zwiebeln, Champignons und Paprika",
+        "price": "17.00 €",
+        "tags": "beef spicy"
+      },
+      {
+        "num": "68",
+        "name": "Nua Pad Khing",
+        "desc": "Gebratenes Rindfleisch mit frischem Ingwer, Morcheln, Paprika und Zwiebeln",
+        "price": "17.00 €",
+        "tags": "beef"
+      },
+      {
+        "num": "69",
+        "name": "Nua Kiamau (Krapao)",
+        "desc": "Gebratenes Rindfleisch mit Chili, Knoblauch und frischem Thai-Basilikum",
+        "price": "17.00 €",
+        "tags": "beef spicy"
+      }
+    ]
+  },
+  {
+    "id": "duck",
+    "name": "Knusprige Gourmet-Ente · Ped / Vit",
+    "sub": "Kross gebackene Entenbrust & traditionelle Saucen",
+    "items": [
+      {
+        "num": "70",
+        "name": "Ped Pad Khing",
+        "desc": "Ente gebraten mit frischem Ingwer, Morcheln und Paprika im Wok",
+        "price": "19.50 €",
+        "tags": "duck"
+      },
+      {
+        "num": "71",
+        "name": "Gaeng Kou Ped",
+        "desc": "Krosse Ente in rotem Thai-Curry mit samtiger Kokosmilch und tropischen Früchten",
+        "price": "19.50 €",
+        "tags": "duck spicy"
+      },
+      {
+        "num": "72",
+        "name": "Ped Pkah Loh",
+        "desc": "Ente in traditioneller 5-Gewürze-Sojasauce mit aromatischen Gewürzen, Morcheln und Brokkoli",
+        "price": "19.50 €",
+        "tags": "duck"
+      },
+      {
+        "num": "73",
+        "name": "Ped Grapau",
+        "desc": "Knusprige Ente im Wok sautiert mit Chili, Knoblauch und frischem süßem Thai-Basilikum",
+        "price": "19.50 €",
+        "tags": "duck spicy"
+      },
+      {
+        "num": "74",
+        "name": "Ped Mai Tai",
+        "desc": "Knusprige Gourmet-Ente nach Art des Hauses auf reichhaltig gebratenem Marktgemüse",
+        "price": "19.50 €",
+        "tags": "duck sig"
+      },
+      {
+        "num": "75",
+        "name": "Ped Nam Dang",
+        "desc": "Feine knusprige Ente geschwenkt in aromatischer Rotweinsauce mit Gemüsestreifen",
+        "price": "19.50 €",
+        "tags": "duck"
+      },
+      {
+        "num": "76",
+        "name": "Vit Nuong Ngu Vi Huong",
+        "desc": "Knusprige vietnamesische Ente gewürzt mit traditionellen 5 Kostbarkeiten",
+        "price": "19.50 €",
+        "tags": "duck"
+      },
+      {
+        "num": "77",
+        "name": "Vit Nuong Xa Ot",
+        "desc": "Knusprige Ente mit aromatischer Zitronengrassauce und frischen Chilis",
+        "price": "19.50 €",
+        "tags": "duck spicy"
+      },
+      {
+        "num": "78",
+        "name": "Vit Chua Ngot",
+        "desc": "Knusprige Ente mit frischer Ananas und Gemüse in fruchtiger süß-saurer Sauce",
+        "price": "19.50 €",
+        "tags": "duck"
+      }
+    ]
+  },
+  {
+    "id": "veg",
+    "name": "Gemüse & Tofu · Pak / Rau / Chay",
+    "sub": "Vegetarische & vegane Spezialitäten (Auf Wunsch mit Bio-Tofu +2,00 €)",
+    "items": [
+      {
+        "num": "80",
+        "name": "Pad Pak Ruam Mit",
+        "desc": "Bunte Auswahl an frischem Marktgemüse, knackig gebraten in Soja- oder Austernsauce",
+        "price": "15.00 €",
+        "tags": "veg"
+      },
+      {
+        "num": "81",
+        "name": "Pad Brokkoli",
+        "desc": "Frischer Brokkoli im Wok geschwenkt mit Knoblauch in Soja- oder feiner Austernsauce",
+        "price": "15.00 €",
+        "tags": "veg"
+      },
+      {
+        "num": "82",
+        "name": "Gaeng Kiew Pak",
+        "desc": "Frisches Gemüse in pikantem grünem Kräuter-Curry mit Kokosmilch und Duftreis",
+        "price": "15.50 €",
+        "tags": "veg spicy"
+      },
+      {
+        "num": "83",
+        "name": "Gaeng Daeng Pak",
+        "desc": "Frisches Gemüse mit Kaffir-Limettenblättern in samtigem rotem Thai-Curry und Kokosmilch",
+        "price": "15.50 €",
+        "tags": "veg spicy"
+      },
+      {
+        "num": "84",
+        "name": "Priow Waan Pak",
+        "desc": "Verschiedene frische Gemüsesorten und Ananas in fruchtiger süß-saurer Sauce",
+        "price": "15.00 €",
+        "tags": "veg"
+      },
+      {
+        "num": "85",
+        "name": "Jad Chali",
+        "desc": "Frisches Marktgemüse mit feinen Glasnudeln in milder Soja-Sauce geschwenkt",
+        "price": "15.00 €",
+        "tags": "veg"
+      },
+      {
+        "num": "86",
+        "name": "Mon Kho Chay",
+        "desc": "Bio-Tofu mit Gemüse langsam geschmort im traditionellen heißen Tontopf",
+        "price": "16.00 €",
+        "tags": "veg sig"
+      },
+      {
+        "num": "87",
+        "name": "Dau Hoa Lan Xao Toi",
+        "desc": "Knackig gebratene Prinzessbohnen mit frischem Knoblauch im heißen Wok",
+        "price": "14.50 €",
+        "tags": "veg"
+      }
+    ]
+  },
+  {
+    "id": "seafood",
+    "name": "Meeresfrüchte & Fisch · Talee / Hai San",
+    "sub": "Riesengarnelen, Tintenfisch & Edelfischfilets",
+    "items": [
+      {
+        "num": "90",
+        "name": "Gung Pad Prik",
+        "desc": "Gebratene Riesengarnelen mit Chili, Zwiebeln, Champignons und Paprika",
+        "price": "21.50 €",
+        "tags": "seafood spicy"
+      },
+      {
+        "num": "91",
+        "name": "Gung Priow Waan",
+        "desc": "Gebratene Riesengarnelen mit Gemüse und Früchten in thailändischer süß-saurer Sauce",
+        "price": "21.50 €",
+        "tags": "seafood"
+      },
+      {
+        "num": "92",
+        "name": "Gung Kuo Gaeng",
+        "desc": "Riesengarnelen in samtigem rotem Thai-Curry mit tropischen Früchten in Kokosmilch",
+        "price": "21.50 €",
+        "tags": "seafood spicy"
+      },
+      {
+        "num": "93",
+        "name": "Gung Kiew Wan Gaeng",
+        "desc": "Riesengarnelen in pikantem grünem Thai-Curry mit Thai-Auberginen und Bambus",
+        "price": "21.50 €",
+        "tags": "seafood spicy"
+      },
+      {
+        "num": "94",
+        "name": "Gung Kratiaw Prik Thai",
+        "desc": "Gebratene Riesengarnelen in Knoblauch, gemahlenem Pfeffer und Prinzessbohnen",
+        "price": "21.50 €",
+        "tags": "seafood sig"
+      },
+      {
+        "num": "95",
+        "name": "Gung Pad Prik Gaeng",
+        "desc": "Gebratene Garnelen mit Auberginen, Bambussprossen und Thai-Basilikum in rotem Curry",
+        "price": "21.50 €",
+        "tags": "seafood spicy"
+      },
+      {
+        "num": "96",
+        "name": "Plah Mük Pad Prik",
+        "desc": "Gebratener Tintenfisch mit Chili, Zwiebeln, frischen Champignons und Paprika",
+        "price": "16.00 €",
+        "tags": "seafood spicy"
+      },
+      {
+        "num": "97",
+        "name": "Plah Mük Krat Nam Prik Thai",
+        "desc": "Gebratener Tintenfisch mit aromatischem Pfeffer, Knoblauch und Prinzessbohnen",
+        "price": "16.00 €",
+        "tags": "seafood"
+      },
+      {
+        "num": "98",
+        "name": "Plah Priow Waan",
+        "desc": "Paniertes und kross gebackenes Fischfilet in süß-saurer Sauce mit Früchten und Gemüse",
+        "price": "16.00 €",
+        "tags": "seafood"
+      },
+      {
+        "num": "99",
+        "name": "Plah Pad Khing",
+        "desc": "Paniertes Fischfilet mit frischem Ingwer, Morcheln, Zwiebeln und süßem Paprika",
+        "price": "16.00 €",
+        "tags": "seafood"
+      },
+      {
+        "num": "100",
+        "name": "Plah Schu Schie",
+        "desc": "Paniertes Fischfilet in roter Chu-Chee Currysauce mit Kaffir-Limettenblättern und Kokosmilch",
+        "price": "16.00 €",
+        "tags": "seafood spicy"
+      },
+      {
+        "num": "101",
+        "name": "Gaeng Talee",
+        "desc": "Auswahl feiner Meeresfrüchte mit Gemüse in rotem Curry und cremiger Kokosmilch",
+        "price": "18.00 €",
+        "tags": "seafood spicy sig"
+      },
+      {
+        "num": "102",
+        "name": "Tom Yam Fondue für 2 Personen",
+        "desc": "Berühmtes traditionelles Thai-Feuertopf-Fondue mit Garnelen, Tintenfisch, Fischfilet, Rindfleisch, Hähnchen, Gemüse und Reisnudeln (auf Vorbestellung)",
+        "price": "65.00 €",
+        "tags": "seafood sig"
+      },
+      {
+        "num": "103",
+        "name": "Tom Kho To",
+        "desc": "Ganze Gambas langsam geschmort im traditionellen vietnamesischen Tontopf",
+        "price": "21.50 €",
+        "tags": "seafood sig"
+      },
+      {
+        "num": "104",
+        "name": "Tom Rang Muoi",
+        "desc": "Ganze Gambas im Wok trocken gebraten mit Meersalz, Chili und Zwiebeln",
+        "price": "21.50 €",
+        "tags": "seafood spicy"
+      },
+      {
+        "num": "105",
+        "name": "Tom Rang Me",
+        "desc": "Ganze Gambas im Wok geschwenkt in reichhaltiger fruchtig-saurer Tamarindensauce",
+        "price": "21.50 €",
+        "tags": "seafood sig"
+      },
+      {
+        "num": "106",
+        "name": "Lau Thap Cam Fondue für 2 Personen",
+        "desc": "Vietnamesisches Festtags-Fondue mit Garnelen, Tintenfisch, Rind, Huhn, Schwein, Gemüse und Glasnudeln (auf Vorbestellung)",
+        "price": "65.00 €",
+        "tags": "seafood sig"
+      }
+    ]
+  },
+  {
+    "id": "grill",
+    "name": "Vietnamesische Grillspezialitäten",
+    "sub": "Serviert mit Reispapier, feinen Reisnudeln, Salat und frischen Kräutern zum Selberrollen",
+    "items": [
+      {
+        "num": "111",
+        "name": "Bo Nuong Xa",
+        "desc": "Zart marinierte Rindfleischstreifen vom Grill mit frischem Zitronengras",
+        "price": "17.50 €",
+        "tags": "grill"
+      },
+      {
+        "num": "112",
+        "name": "Bo Nuong La Lot",
+        "desc": "Aromatisches Rinderhackfleisch eingewickelt in wilde Betelblätter (La Lot) und gegrillt",
+        "price": "18.00 €",
+        "tags": "grill sig"
+      },
+      {
+        "num": "113",
+        "name": "Heo Nuong Xa",
+        "desc": "Gegrilltes mariniertes Schweinefleisch mit Zitronengras und Sesam",
+        "price": "17.00 €",
+        "tags": "grill"
+      },
+      {
+        "num": "114",
+        "name": "Banh Dap",
+        "desc": "Garnelen umhüllt von knusprigem Speckmantel vom Grill",
+        "price": "18.00 €",
+        "tags": "grill"
+      },
+      {
+        "num": "115",
+        "name": "Tom Nuong",
+        "desc": "Ganze Gambas vom Grill mit Knoblauchmarinade und frischen Kräutern",
+        "price": "21.50 €",
+        "tags": "grill"
+      },
+      {
+        "num": "116",
+        "name": "Thap Cam Nuong",
+        "desc": "Große gemischte Grillplatte kombiniert aus Nr. 111, 112 und 114 mit frischen Kräutern",
+        "price": "21.50 €",
+        "tags": "grill sig"
+      }
+    ]
+  },
+  {
+    "id": "noodles_rice",
+    "name": "Reis- & Nudelgerichte · Noodle & Rice Specialties",
+    "sub": "Pad Thai, traditionelle Pho-Suppen und gebratene Wok-Klassiker",
+    "items": [
+      {
+        "num": "117",
+        "name": "Pad Thai",
+        "desc": "Gebratene Reisbandnudeln nach thailändischer Art mit Krabben, Bio-Tofu, Sojasprossen und Erdnüssen",
+        "price": "19.00 €",
+        "tags": "noodles sig"
+      },
+      {
+        "num": "118",
+        "name": "Pad Bami Ped",
+        "desc": "Gebratene Eiernudeln mit knuspriger Ente, Sojakeimen und Frühlingszwiebeln",
+        "price": "19.50 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "119",
+        "name": "Khao Pad Gai",
+        "desc": "Gebratener Jasmin-Duftreis aus dem Wok mit Hühnerfleisch, Ei und Gemüse",
+        "price": "15.80 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "120",
+        "name": "Khao Pad Nua",
+        "desc": "Gebratener Duftreis mit zartem Rindfleisch, Ei und Gemüsestreifen",
+        "price": "17.00 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "121",
+        "name": "Khao Pad Moo",
+        "desc": "Gebratener Duftreis mit Schweinefleisch, Ei und Gemüse",
+        "price": "15.80 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "122",
+        "name": "Com Chien Tom",
+        "desc": "Gebratener Reis mit knackigen Garnelen, Ei und feinem Gemüse",
+        "price": "19.50 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "123",
+        "name": "Mi Xao Tom",
+        "desc": "Weich gebratene Eiernudeln aus dem Wok mit Garnelen und knackigem Marktgemüse",
+        "price": "19.50 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "124",
+        "name": "Mi Xao Ga",
+        "desc": "Weich gebratene Eiernudeln mit zartem Hühnerfleisch und frischem Gemüse",
+        "price": "15.80 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "125",
+        "name": "Mi Xao Thap Cam",
+        "desc": "Eiernudeln knusprig gebacken oder weich gebraten mit Garnelen, Tintenfisch, Fleisch und Gemüse",
+        "price": "19.50 €",
+        "tags": "noodles sig"
+      },
+      {
+        "num": "126",
+        "name": "Hu Tieu Xao Thap Cam",
+        "desc": "Breite Reisbandnudeln gebraten mit Garnelen, Tintenfisch, Fleischsorten und Gemüse",
+        "price": "19.50 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "127",
+        "name": "Banh Canh Xao Do Bien",
+        "desc": "Japanische dicke Udonnudeln im Wok sautiert mit reichhaltigen Meeresfrüchten",
+        "price": "19.50 €",
+        "tags": "noodles sig"
+      },
+      {
+        "num": "128",
+        "name": "Mien Xao Ga",
+        "desc": "Gebratene Glasnudeln mit zartem Hähnchenfilet, Morcheln und Gemüse",
+        "price": "15.80 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "129",
+        "name": "Pho Bo Ha Noi",
+        "desc": "Traditionelle vietnamesische Reisbandnudelsuppe mit zartem Rindfleisch, Sternanis-Brühe und Kräutern",
+        "price": "18.00 €",
+        "tags": "noodles sig"
+      },
+      {
+        "num": "130",
+        "name": "Pho Ga",
+        "desc": "Vietnamesische Reisbandnudelsuppe mit aromatischer Hühnerbrühe, Hähnchenfilet und Frühlingszwiebeln",
+        "price": "16.00 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "131",
+        "name": "Hu Tieu Thap Cam",
+        "desc": "Südvietnamesische Reisbandnudelsuppe mit Garnelen, Tintenfisch, Fischbällchen und Fleisch",
+        "price": "19.50 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "132",
+        "name": "Mien Ga",
+        "desc": "Vietnamesische Glasnudelsuppe mit zarter Hähnchenbrust, Koriander und Frühlingszwiebeln",
+        "price": "15.80 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "133",
+        "name": "Bun Bo Nuong Cha Gio",
+        "desc": "Lauwarme Reisnudelschale mit gegrilltem Rindfleisch, knuspriger Frühlingsrolle, Salat, Minze und Nuoc-Cham-Sauce",
+        "price": "17.50 €",
+        "tags": "noodles sig"
+      },
+      {
+        "num": "134",
+        "name": "Pho Xao Ga",
+        "desc": "Reisbandnudeln weich gebraten mit Hühnerfleisch und Marktgemüse",
+        "price": "15.80 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "135",
+        "name": "Pho Xao Bo",
+        "desc": "Reisbandnudeln weich gebraten mit zartem Rindfleisch und Gemüse",
+        "price": "17.00 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "136",
+        "name": "Mi Xao Bo",
+        "desc": "Eiernudeln weich gebraten mit saftigem Rindfleisch und Gemüse",
+        "price": "17.00 €",
+        "tags": "noodles"
+      },
+      {
+        "num": "137",
+        "name": "Com / Mi / Pho Xao Rau",
+        "desc": "Wahlweise gebratener Reis, Eiernudeln oder Reisbandnudeln rein vegetarisch mit buntem Gemüse",
+        "price": "15.00 €",
+        "tags": "noodles veg"
+      }
+    ]
+  },
+  {
+    "id": "desserts",
+    "name": "Desserts & Süßspeisen",
+    "sub": "Süßer Ausklang nach fernöstlicher Art",
+    "items": [
+      {
+        "num": "140",
+        "name": "Gebackene Banane mit Honig",
+        "desc": "Knusprig im Teigmantel ausgebackene Banane mit feinem Bienenhonig und Sesam",
+        "price": "5.00 €",
+        "tags": "dessert"
+      },
+      {
+        "num": "141",
+        "name": "Gebackene Ananas mit Honig",
+        "desc": "Gebackene Ananasscheiben verfeinert mit goldenem Honig",
+        "price": "5.00 €",
+        "tags": "dessert"
+      },
+      {
+        "num": "142",
+        "name": "Gebackene Lychee mit Vanilleeis",
+        "desc": "Knusprig gebackene Lychees serviert mit einer Kugel Bourbon-Vanilleeis",
+        "price": "6.00 €",
+        "tags": "dessert"
+      },
+      {
+        "num": "143",
+        "name": "Eingelegte Lychees",
+        "desc": "Erfrischende süße Lychees auf Crushed Ice serviert",
+        "price": "5.50 €",
+        "tags": "dessert"
+      },
+      {
+        "num": "144",
+        "name": "Gemischtes Eis",
+        "desc": "Dreierlei Eiskugeln nach Wahl verfeinert mit Sahne",
+        "price": "5.50 €",
+        "tags": "dessert"
+      },
+      {
+        "num": "145",
+        "name": "Gebackenes Vanilleeis",
+        "desc": "Im knusprigen Erdnuss-Kokos-Mantel gebackenes Vanilleeis mit Honig",
+        "price": "7.00 €",
+        "tags": "dessert sig"
+      },
+      {
+        "num": "146",
+        "name": "Flambierte Banane oder Ananas",
+        "desc": "Am Tisch edel flambierte Banane oder Ananas mit Grand Manier / Rum",
+        "price": "7.00 €",
+        "tags": "dessert sig"
+      },
+      {
+        "num": "147",
+        "name": "Süße Banane in Kokosmilch",
+        "desc": "Warme Bananenscheiben in duftender Kokosmilch, getoppt mit gerösteten Erdnüssen",
+        "price": "6.00 €",
+        "tags": "dessert"
+      }
+    ]
+  },
+  {
+    "id": "extras",
+    "name": "Beilagen & Extras · Side Orders",
+    "sub": "Zusätzliche Portionen & Extrawünsche (Offizielle Extras 2026)",
+    "items": [
+      {
+        "num": "E.1",
+        "name": "Gekochter Duftreis / Steamed Rice",
+        "desc": "Portion gedämpfter Jasmin-Reis",
+        "price": "2.50 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.2",
+        "name": "Zweite Portion Reis für Hauptgericht",
+        "desc": "Zusätzliche Reisportion zum Hauptgang",
+        "price": "2.50 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.3",
+        "name": "Gekochte Reisnudeln / Boiled Rice Noodles",
+        "desc": "Zarte gekochte Reisnudeln",
+        "price": "3.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.4",
+        "name": "Gekochte flache Reisbandnudeln",
+        "desc": "Gedämpfte breite Bandnudeln",
+        "price": "3.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.5",
+        "name": "Gebratene Eiernudeln extra",
+        "desc": "Gebraten mit Zwiebeln, Karotten, Sojasprossen und Ei",
+        "price": "6.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.6",
+        "name": "Gebratene Reisbandnudeln extra",
+        "desc": "Gebraten mit Zwiebeln, Karotten, Sojasprossen und Ei",
+        "price": "6.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.7",
+        "name": "Gebratene Glasnudeln extra",
+        "desc": "Gebraten mit Zwiebeln, Karotten, Sojasprossen und Ei",
+        "price": "6.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.8",
+        "name": "Gebratener Reis extra",
+        "desc": "Wok-Reis mit Zwiebeln, Karotten, Sojasprossen und Ei",
+        "price": "6.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.9",
+        "name": "Gebratene Udonnudeln extra",
+        "desc": "Gebratene japanische Udonnudeln mit Gemüse",
+        "price": "7.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.10",
+        "name": "Extra Currysauce",
+        "desc": "Wahlweise rote, grüne oder gelbe Currysauce",
+        "price": "3.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.11",
+        "name": "Extra Sojasauce oder Austernsauce",
+        "desc": "Hausgemachte Woksauce separat",
+        "price": "2.50 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.12",
+        "name": "Extra Hähnchenfleisch / Chicken Portion",
+        "desc": "Zusätzliche Fleischportion",
+        "price": "3.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.13",
+        "name": "Extra Rindfleisch / Beef Portion",
+        "desc": "Zusätzliche Fleischportion",
+        "price": "3.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.14",
+        "name": "Extra Cashewnüsse / Cashew Nuts",
+        "desc": "Geröstete Cashewkerne",
+        "price": "3.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.15",
+        "name": "Extra Tofu / Organic Tofu",
+        "desc": "Gebratener Bio-Tofu",
+        "price": "2.50 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.16",
+        "name": "Knuspriges Hähnchen mit Reis (Pur)",
+        "desc": "Spezialwunsch: Knuspriges Huhn & Reis ohne Gemüse und ohne Sauce",
+        "price": "14.50 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.17",
+        "name": "Knusprige Ente mit Reis (Pur)",
+        "desc": "Spezialwunsch: Knusprige Ente & Reis ohne Gemüse und ohne Sauce",
+        "price": "16.50 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.18",
+        "name": "Sommerrolle einzeln mit Hähnchen",
+        "desc": "Frische Sommerrolle mit Huhn",
+        "price": "6.00 €",
+        "tags": "extras"
+      },
+      {
+        "num": "E.19",
+        "name": "Sommerrolle einzeln mit Tofu",
+        "desc": "Frische Sommerrolle mit Bio-Tofu",
+        "price": "6.50 €",
+        "tags": "extras"
+      }
+    ]
+  },
+  {
+    "id": "drinks",
+    "name": "Alkoholfreie Getränke & Heißgetränke",
+    "sub": "Erfrischungen, Säfte & erlesene Tees",
+    "items": [
+      {
+        "num": "168",
+        "name": "Elisabethenquelle Wasser Still / Sprudel",
+        "desc": "Erfrischendes Mineralwasser (0,4 l)",
+        "price": "4.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "170",
+        "name": "Elisabethenquelle Flasche Still (0,5 l)",
+        "desc": "Feinstes lokales Quellwasser im Glas",
+        "price": "6.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "171",
+        "name": "Elisabethenquelle Flasche (0,75 l)",
+        "desc": "Große Flasche Quellwasser Still oder Medium",
+        "price": "7.50 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "172",
+        "name": "Bionade verschiedene Sorten (0,33 l)",
+        "desc": "Bio-Limonade: Ingwer-Orange, Lychee oder Holunder",
+        "price": "4.50 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "175",
+        "name": "Malzbier (0,33 l)",
+        "desc": "Alkoholfreier Malztrunk",
+        "price": "4.50 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "176",
+        "name": "Coca Cola / Cola Light (0,4 l)",
+        "desc": "Koffeinhaltiges Erfrischungsgetränk",
+        "price": "5.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "180",
+        "name": "Fanta / Sprite (0,4 l)",
+        "desc": "Fruchtige Erfrischungslimonade",
+        "price": "5.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "184",
+        "name": "Bitter Lemon / Tonic Water / Ginger Ale (0,4 l)",
+        "desc": "Klassische Bitter-Getränke auf Eis",
+        "price": "4.50 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "190",
+        "name": "Apfelsaftschorle (0,4 l)",
+        "desc": "Naturtrüber Apfelsaft mit Sprudelwasser",
+        "price": "4.50 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "193",
+        "name": "Orangensaft / Mangosaft / Lycheesaft (0,4 l)",
+        "desc": "Exotische Fruchtsäfte serviert auf Eis",
+        "price": "4.50 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "197",
+        "name": "Original Thai Eistee (Cha Yen, 0,4 l)",
+        "desc": "Frisch aufgebrühter Thai-Tee serviert auf Crushed Ice",
+        "price": "4.50 €",
+        "tags": "drinks sig"
+      },
+      {
+        "num": "199",
+        "name": "Tasse Kaffee / Espresso",
+        "desc": "Frisch gemahlener Röstkaffee aus der Siebträgermaschine",
+        "price": "3.00 € - 4.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "201",
+        "name": "Cappuccino / Latte Macchiato",
+        "desc": "Mit samtigem Milchschaum",
+        "price": "5.00 € - 5.30 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "204",
+        "name": "Kännchen Jasmintee / Lotustee / Grüner Tee",
+        "desc": "Traditioneller loser Tee im Kännchen serviert",
+        "price": "4.50 €",
+        "tags": "drinks sig"
+      }
+    ]
+  },
+  {
+    "id": "beers_spirits",
+    "name": "Biere & asiatische Spezialitäten",
+    "sub": "Vom Fass, aus Asien & erlesene Digestifs",
+    "items": [
+      {
+        "num": "207",
+        "name": "Warsteiner Pils vom Fass (0,33 l / 0,5 l)",
+        "desc": "Frisch gezapftes Premium Pils",
+        "price": "3.50 € / 5.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "210",
+        "name": "Hefeweizen / Dunkelweizen / Kristallweizen (0,5 l)",
+        "desc": "König Ludwig Weissbier",
+        "price": "5.50 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "215",
+        "name": "Singha Thai Bier (0,33 l)",
+        "desc": "Original thailändisches Lagerbier, eisgekühlt",
+        "price": "5.00 €",
+        "tags": "drinks sig"
+      },
+      {
+        "num": "217",
+        "name": "Saigon Vietnam Bier (0,33 l)",
+        "desc": "Original vietnamesisches Exportbier, eisgekühlt",
+        "price": "5.00 €",
+        "tags": "drinks sig"
+      },
+      {
+        "num": "232",
+        "name": "Chinesischer Lycheewein (5 cl)",
+        "desc": "Fruchtig-süßer Lycheewein",
+        "price": "4.70 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "233",
+        "name": "Japanischer Pflaumenwein (5 cl)",
+        "desc": "Traditioneller Umeshu Pflaumenwein",
+        "price": "4.50 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "234",
+        "name": "Japanischer heißer Sake (5 cl)",
+        "desc": "Erwärmter Reiswein im Kännchen",
+        "price": "5.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "235",
+        "name": "Mekong Thai Whisky 35% vol (4 cl)",
+        "desc": "Der berühmte thailändische Kult-Whisky",
+        "price": "7.00 €",
+        "tags": "drinks sig"
+      },
+      {
+        "num": "236",
+        "name": "Bambusschnaps / Rosenschnaps / Kaoliang (2 cl)",
+        "desc": "Hochprozentige asiatische Schnäpse (45% - 62% vol)",
+        "price": "5.30 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "239",
+        "name": "Mou Tai 54% vol (2 cl)",
+        "desc": "Der legendäre chinesische Luxus-Schnaps",
+        "price": "6.00 €",
+        "tags": "drinks sig"
+      },
+      {
+        "num": "240",
+        "name": "Klebreisschnaps 29% vol (2 cl)",
+        "desc": "Aromatischer milder vietnamesischer Klebreisgeist",
+        "price": "5.00 €",
+        "tags": "drinks"
+      }
+    ]
+  },
+  {
+    "id": "cocktails",
+    "name": "Cocktails & Signature Drinks",
+    "sub": "Exotische Kreationen des Hauses mit und ohne Alkohol",
+    "items": [
+      {
+        "num": "270",
+        "name": "Super Bleifrei (Alkoholfrei)",
+        "desc": "Kokos, Zitronensaft, Orangensaft, Apfelsaft und alkoholfreier Blue Curaçao",
+        "price": "8.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "271",
+        "name": "Coconut Kiss (Alkoholfrei)",
+        "desc": "Kokosnusscreme, Ananassaft, Orangensaft und frische Sahne",
+        "price": "8.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "272",
+        "name": "Fruit Punch (Alkoholfrei)",
+        "desc": "Zitronensaft, Orangensaft, Grenadine, Maracujasaft und Ananassaft",
+        "price": "8.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "276",
+        "name": "Maitai Cocktail Signature",
+        "desc": "Der legendäre Haus-Cocktail: Rum, Orzata (Mandelsirup), Dry Orange und Limettensaft",
+        "price": "10.00 €",
+        "tags": "drinks sig"
+      },
+      {
+        "num": "277",
+        "name": "Maitai für 2 Personen",
+        "desc": "Große Doppel-Karaffe unseres Signature MaiTai mit Rum, Früchten und Grenadine",
+        "price": "17.50 €",
+        "tags": "drinks sig"
+      },
+      {
+        "num": "281",
+        "name": "Verführung",
+        "desc": "Lycheewein, Ananassaft, Orangensaft, Erdbeersirup und frische Sahne",
+        "price": "9.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "284",
+        "name": "Margarita Classic",
+        "desc": "Tequila, Triple Sec, frischer Zitronensaft und Lime Juice mit Salzrand",
+        "price": "10.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "285",
+        "name": "Caipirinha / Caipiroska",
+        "desc": "Cachaça (oder Wodka), frische Limetten und brauner Rohrzucker auf Crushed Ice",
+        "price": "10.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "288",
+        "name": "Mojito Classic",
+        "desc": "Weißer Rum, frische Limettenviertel, Minzzweige, Rohrzucker und Soda",
+        "price": "10.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "294",
+        "name": "Singapore Sling",
+        "desc": "Gin, Kirschlikör, Apricot Brandy, Grand Marnier, Ananas- und Limettensaft",
+        "price": "10.00 €",
+        "tags": "drinks sig"
+      },
+      {
+        "num": "299",
+        "name": "Piña Colada Classic",
+        "desc": "Weißer Rum, cremige Kokosmilch, Ananassaft und Sahne",
+        "price": "9.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "307",
+        "name": "Long Island Iced Tea",
+        "desc": "Rum 73%, Tequila, Gin, Wodka, Lime Juice, Zitronensaft und Cola",
+        "price": "10.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "309",
+        "name": "Zombie Extreme",
+        "desc": "Rum 73%, Rum, Dry Orange, Zitronensaft, Orangensaft und Grenadine",
+        "price": "10.00 €",
+        "tags": "drinks sig"
+      }
+    ]
+  },
+  {
+    "id": "wines",
+    "name": "Weine & Schaumweine · Wine Selection",
+    "sub": "Ausgewählte deutsche, französische und italienische Tropfen (0,2 l & 0,75 l)",
+    "items": [
+      {
+        "num": "362",
+        "name": "Prosecco Spumante (0,1 l / 0,75 l)",
+        "desc": "Feinperlig, elegant und trocken",
+        "price": "5.00 € / 25.50 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "365",
+        "name": "Fürst von Metternich Sekt (0,75 l)",
+        "desc": "Klassischer Rieslingsekt, trocken",
+        "price": "32.00 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "400",
+        "name": "Chardonnay Pierre & Remy Gauthier (0,2 l)",
+        "desc": "Burgund, Frankreich – Reintönig, leicht und trocken",
+        "price": "5.90 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "401",
+        "name": "Riesling Balthasar Ress, Rheingau (0,2 l)",
+        "desc": "Trocken oder halbtrocken – Feingliedrig, süffig und frisch mit feiner Säure",
+        "price": "5.90 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "403",
+        "name": "Grauburgunder Wasenweiler, Baden (0,2 l)",
+        "desc": "Kräftig und saftig mit feinen Aromen von Steinobst und Kräutern",
+        "price": "5.90 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "406",
+        "name": "Chavel Rosé Vin de Pays d'Oc (0,2 l)",
+        "desc": "Südfrankreich – Leicht trocken, würzig und fruchtbetont",
+        "price": "5.90 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "408",
+        "name": "Merlot, Syrah & Cabernet Chavel (0,2 l)",
+        "desc": "Südfrankreich – Gefälliger, harmonischer Rotwein",
+        "price": "5.90 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "409",
+        "name": "Cabernet Sauvignon Cono Sur, Chile (0,2 l)",
+        "desc": "Tiefdunkel, vollmundig und intensiv fruchtig",
+        "price": "5.90 €",
+        "tags": "drinks"
+      },
+      {
+        "num": "420",
+        "name": "Sauvignon Blanc 'Eins zu Eins' Weingut Diehl (0,75 l)",
+        "desc": "Pfalz – Exotische Frucht, Minze, mineralisch und unglaublich klar",
+        "price": "29.00 €",
+        "tags": "drinks sig"
+      },
+      {
+        "num": "428",
+        "name": "Terre di Montelusa Riserva DOC, Brindisi (0,75 l)",
+        "desc": "Apulien, Italien – Sangiovese & Negroamaro, samtig-weich mit feiner Holznote",
+        "price": "24.50 €",
+        "tags": "drinks sig"
+      },
+      {
+        "num": "429",
+        "name": "Château La Freynelle Bordeaux (0,75 l)",
+        "desc": "Bordeaux, Frankreich – Merlot & Cabernet Sauvignon mit komplexen Tanninen und dunklen Beeren",
+        "price": "25.50 €",
+        "tags": "drinks"
+      }
+    ]
+  }
+]
