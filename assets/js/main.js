@@ -99,6 +99,19 @@
     <a href="contact.html">Anfahrt &amp; Karte</a>`;
   document.body.appendChild(bar);
 
+  /* ---------- Back to Top Button ---------- */
+  const backToTop = document.createElement("button");
+  backToTop.className = "back-to-top";
+  backToTop.setAttribute("aria-label", "Nach oben scrollen");
+  backToTop.innerHTML = `
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M18 15l-6-6-6 6"/>
+    </svg>`;
+  backToTop.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+  document.body.appendChild(backToTop);
+
   /* ---------- Dynamic Config Fill ---------- */
   document.querySelectorAll("[data-k]").forEach(el => {
     const v = M[el.dataset.k];
@@ -159,23 +172,43 @@
   renderHours();
   updateOpenBadge();
 
-  /* ---------- Sticky Header Scroll Effect ---------- */
+  /* ---------- Sticky Header & Back-To-Top Scroll Effect ---------- */
   function onScroll() {
-    if (header) header.classList.toggle("scrolled", window.scrollY > 40);
+    const y = window.scrollY || window.pageYOffset;
+    if (header) header.classList.toggle("scrolled", y > 40);
+    if (backToTop) backToTop.classList.toggle("visible", y > 350);
   }
   window.addEventListener("scroll", onScroll, { passive: true });
   onScroll();
 
-  /* ---------- Mobile Burger Menu ---------- */
+  /* ---------- Mobile Burger & Overlay Menu ---------- */
+  function closeNav() {
+    document.body.classList.remove("nav-open");
+    const b = document.querySelector(".burger");
+    if (b) b.setAttribute("aria-expanded", "false");
+  }
+
   document.addEventListener("click", e => {
     const burger = e.target.closest(".burger");
     if (burger) {
       const open = document.body.classList.toggle("nav-open");
       burger.setAttribute("aria-expanded", String(open));
-    } else if (e.target.closest("#nav-links a")) {
-      document.body.classList.remove("nav-open");
-      const b = document.querySelector(".burger");
-      if (b) b.setAttribute("aria-expanded", "false");
+      return;
+    }
+
+    if (e.target.closest(".nav__close") || e.target.closest("#nav-links a")) {
+      closeNav();
+      return;
+    }
+
+    if (document.body.classList.contains("nav-open") && e.target.closest(".nav__links") === null && !e.target.closest(".site-header")) {
+      closeNav();
+    }
+  });
+
+  window.addEventListener("keydown", e => {
+    if (e.key === "Escape" && document.body.classList.contains("nav-open")) {
+      closeNav();
     }
   });
 
